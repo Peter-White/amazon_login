@@ -1,0 +1,72 @@
+.sign-in {
+  padding: 30px;
+}
+
+label {
+  font-weight: bold;
+  font-weight: 700;
+}
+
+button.btn.btn-primary {
+    width: 100%;
+    margin: 20px 0px;
+    background: #f0c14b;
+    border-color: #a88734 #9c7e31 #846a29;
+    color: #111;
+}
+
+.create {
+  background: #e7e9ec;
+  border-radius: 3px;
+  border-color: #adb1b8 #a2a6ac #8d9096;
+  border-style: solid;
+  border-width: 1px;
+  cursor: pointer;
+}
+
+h1 {
+  font-size: 28px;
+  font-weight: 400;
+}
+
+form {
+  margin-top: 10px;
+}
+
+.forgot {
+  float: right;
+}
+
+h3 {
+    color: #767676;
+    font-size: 12px;
+    text-align: center;
+    line-height: -100;
+}
+
+.newAmzn {
+  margin-top: 30px;
+  margin-bottom: 15px;
+}
+
+nav ul {
+  list-style-type: none;
+}
+
+nav ul li {
+    display: inline;
+    font-size: 12px;
+    padding: 0 10px;
+}
+
+main {
+  margin: 30px 0px;
+}
+
+.author {
+  text-align: center;
+}
+
+.author small {
+  color: #555;
+}
